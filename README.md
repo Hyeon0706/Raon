@@ -107,7 +107,7 @@
     </tr>
     <tr align="center">
         <td>
-            ![스플래시](./exec/images/splash.png)
+            ![splash](./exec/images/splash.png)
         </td>
         <td>
             ![메인페이지](./exec/images/main.png)
