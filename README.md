@@ -186,7 +186,6 @@
         </td>
         <td>
             <img src="./exec/images/multi2.png" alt="대기 방">
-            ![대기 방](./exec/images/multi2.png)
         </td>
         <td>
             <img src="./exec/images/multi3.png" alt="중간 결과">
